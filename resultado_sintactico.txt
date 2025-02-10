@@ -1,0 +1,3 @@
+--- Análisis Sintáctico ---
+1: <TipoDato int 1 1><Id x 1 5><End ; 1 6> ------------> <TipoDato><Id><End> ✓
+2: <TipoDato int 2 1><Id x 2 5><Igualdad = 2 6><Valor 3 2 7><End ; 2 8> ------------> <TipoDato><Id><Igualdad><Valor><End> ✓

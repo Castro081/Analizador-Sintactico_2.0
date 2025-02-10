@@ -1,0 +1,6 @@
+string nombre;
+int edad;
+double nota;
+char signo;
+
+Compiladores I;
